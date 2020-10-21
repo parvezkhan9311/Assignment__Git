@@ -1,2 +1,3 @@
-This is java
-This is Coding
+This is Python.
+This is Coding.
+Bye
